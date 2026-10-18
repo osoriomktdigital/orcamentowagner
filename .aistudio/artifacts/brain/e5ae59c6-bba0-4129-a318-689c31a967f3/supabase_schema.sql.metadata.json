@@ -1,0 +1,5 @@
+{
+  "summary": "SQL schema for Supabase tables to support the event management application. Includes tables for 'catalog' and 'budgets'.",
+  "updatedAt": "2026-10-18T15:47:28.232203063Z",
+  "userFacing": true
+}

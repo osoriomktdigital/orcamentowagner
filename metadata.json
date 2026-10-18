@@ -1,0 +1,6 @@
+{
+  "name": "OrcamentoFácil",
+  "description": "Sistema completo de gestão de eventos e orçamentos para casas de festas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
