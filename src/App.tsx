@@ -1204,7 +1204,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[#FBF9F5] text-[#2B343B] flex font-body">
       <aside className="w-64 bg-[#2B343B] text-white flex flex-col fixed h-full z-50 shadow-2xl">
-        <div className="p-8 flex items-center gap-3 bg-white/5"><div className="p-2 bg-[#D4A373] rounded-lg"><Sparkles className="text-white w-5 h-5" /></div><h1 className="font-bold text-lg font-display tracking-tight text-white">Orcamento<span className="text-[#D4A373]">Fácil</span></h1></div>
+        <div className="p-8 flex items-center gap-3 bg-white/5"><div className="p-2 bg-[#D4A373] rounded-lg"><Sparkles className="text-white w-5 h-5" /></div><h1 className="font-bold text-lg font-display tracking-tight text-white">Orçamento<span className="text-[#D4A373]">Lindo</span></h1></div>
         <nav className="flex-1 px-4 py-6 space-y-6 overflow-y-auto">
           {MAIN_SECTIONS.map((s: any) => (
             <div key={s.id} className="space-y-2">
